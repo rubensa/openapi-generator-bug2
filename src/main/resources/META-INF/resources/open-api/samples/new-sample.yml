@@ -1,0 +1,6 @@
+summary: "New sample"
+value:
+  - id: 0
+  - id: 1
+    title: "New sample"
+    description: "This is a new sample"
